@@ -2,20 +2,22 @@
 
 Essa página foi feita para demonstrar a implementaçao das funcionalidades requisistadas pela empresa techslab
 
-### COMO EXECUTAR O PROJETO?
+## COMO EXECUTAR O PROJETO?
 Pré requisitos node/npm
-#### Clonar repositório
+### Clonar repositório
+  git clone https://github.com/chavesjoabe/techsLab-test.git
   
+### Entrar na pasta do projeto
+  cd techsLab-test
   
-#### Entrar na pasta do projeto
-  cd 
-  
-#### Instalar dependencias do projeto
+### Instalar dependencias do projeto
   npm i
 
-#### Executar o projeto
+### Executar o projeto
   npm start
 
 ### Tecnologias utilizadas:
 
-Todo o Front end foi feito em React js com Javascript
+JavaScript
+Node js
+React js
