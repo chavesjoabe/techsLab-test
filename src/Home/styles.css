@@ -1,0 +1,14 @@
+.mainContent{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mainImage{
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}

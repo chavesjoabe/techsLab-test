@@ -1,0 +1,36 @@
+.result-container{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 90px);
+}
+.result-div{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #e1f5ff;
+    box-shadow: 2px 2px 2px 4px #f1f1f1;
+}
+.generate-btn{
+    width: 100px;
+    height: 100px;
+    background-color: #2B478B;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 auto;
+}
+.generate-btn:hover{
+    background-color: #536aa5;
+
+}
+.func4Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.arrayContainer{
+    background-color: #78ACEA;
+    width: 40%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.toggleButton{
+    background-color: #F99746;
+    width: 200px;
+    height: 60px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.toggleButton:hover{
+    background-color: #d37223;
+
+}
+.func1Image{
+    width: 30%;
+    margin: 40px auto;
+}
+.number-result{
+    width: 300px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e1f5ff;
+    margin: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,24 @@
+.func2Container{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px auto;
+    
+}
+
+.func2MainImage{
+    width: 60%;
+}
+.calculate-btn{
+    width: 40%;
+    height: 60px;
+    background-color: #2B478B;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+}
+.calculate-btn:hover{
+    background: #536aa5;
+}
