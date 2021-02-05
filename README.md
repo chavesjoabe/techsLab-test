@@ -1,8 +1,8 @@
-#Teste para a empresa TechsLab
+# Teste para a empresa TechsLab
 
 Essa página foi feita para demonstrar a implementaçao das funcionalidades requisistadas pela empresa techslab
 
-#COMO RODAR O PROJETO?
+## COMO RODAR O PROJETO?
 
 Para rodar esse projeto, primeiro é necessário ter o NODE.js instalado em sua máquina, em seguida abrir uma janela
 do terminal na pasta do projeto e rodar o comando "npm i" para que todas as dependencias do projeto sejam 
